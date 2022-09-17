@@ -1,7 +1,3 @@
----
-typora-copy-images-to: upload
----
-
 # 一.java概述
 
 ## 1.Java语言十大特点
@@ -135,7 +131,11 @@ B--运行-->C[结果]
 
 ## 2.数据类型
 
-![image-20220109202947726](https://s2.loli.net/2022/05/09/x756tJw1lZUhuza.png)
+
+
+![I2y73YkgpulnAbr](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/I2y73YkgpulnAbr-16634138227371.png)
+
+![x756tJw1lZUhuza](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/x756tJw1lZUhuza.png)
 
 
 
@@ -258,7 +258,7 @@ Double.parseDouble("123");
 
 ## 算术运算符 
 
-![image-20220110200225420](https://s2.loli.net/2022/05/09/zeipK5hkPZFcBwt.png)
+![zeipK5hkPZFcBwt-16634096403911](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/zeipK5hkPZFcBwt-16634096403911.png)
 
 1.除号"/"，整数除和小数除有区别：整数之间做除法时，只保留整数部分舍弃小数部分。例如 int x = 10/3; 结果为3
 
@@ -287,7 +287,7 @@ Double.parseDouble("123");
 
 ## 关系运算符 [比较运算符] 
 
-![image-20220110201707581](https://s2.loli.net/2022/05/09/WZQrnlu3mfcvM4C.png)
+![WZQrnlu3mfcvM4C](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/WZQrnlu3mfcvM4C.png)
 
 1) 关系运算符的结果都是 boolean 型，也就是要么是 true，要么是 false。 
 2) 关系运算符组成的表达式，我们称为关系表达式。 a > b 
@@ -297,7 +297,7 @@ Double.parseDouble("123");
 
 用于连接多个条件（多个关系表达式），最终的结果也是一个 boolean
 
-![image-20220110201909514](https://s2.loli.net/2022/05/09/8sGXdKbTxELihQP.png)
+![8sGXdKbTxELihQP](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/8sGXdKbTxELihQP.png)
 
 1) &&短路与：如果第一个条件为 false，则第二个条件不会判断，最终结果为 false，效率高 
 2)  & 逻辑与：不管第一个条件是否为 false，第二个条件都要判断，效率低
@@ -318,7 +318,7 @@ Double.parseDouble("123");
 
 ### 位运算符
 
-![image-20220110231703986](https://s2.loli.net/2022/05/09/1bafudhDTnHgjNe.png)
+![1bafudhDTnHgjNe](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/1bafudhDTnHgjNe.png)
 
 补充 ：
 
@@ -439,7 +439,7 @@ https://www.cnblogs.com/wqbin/p/11142873.html 原码反码和补码
 
 ## 运算符优先级
 
-![image-20220110203709425](https://s2.loli.net/2022/05/09/PF2Kw3pb6Zgm8dc.png)
+![PF2Kw3pb6Zgm8dc](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/PF2Kw3pb6Zgm8dc.png)
 
 ### 标识符的命名规则和规范
 
@@ -463,7 +463,7 @@ https://www.cnblogs.com/wqbin/p/11142873.html 原码反码和补码
 
 定义：被 Java 语言赋予了特殊含义，用做专门用途的字符串（单词）
 
-![img](https://img-blog.csdnimg.cn/20190222173822117.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjYxNDQ0Nw==,size_16,color_FFFFFF,t_70)
+![20190222173822117](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/20190222173822117.png)
 
 ### 保留字
 
@@ -531,8 +531,8 @@ public class break01 {
 
 值传递和引用传递
 
-# ![image-20220111202628039](https://s2.loli.net/2022/05/09/jVGyDEYuzaxomhS.png)
+![jVGyDEYuzaxomhS](images/jVGyDEYuzaxomhS-16634234519081.png)
 
 二维数组内存布局
 
-![image-20220111204720300](https://s2.loli.net/2022/05/09/QUYGjZCcaDe5RB8.png)
+![QUYGjZCcaDe5RB8](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/QUYGjZCcaDe5RB8.png)

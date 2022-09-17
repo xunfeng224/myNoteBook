@@ -15,9 +15,9 @@ java语言中，将程序执行中发生的不正常情况称为“异常”。�
 
 ## 二、异常体系图
 
+![批注 2020-05-27 165048](https://xunfeng-images.oss-cn-shenzhen.aliyuncs.com/xfTyporaImages/%E6%89%B9%E6%B3%A8%202020-05-27%20165048.png)
 
 
-![image-20220120213102118](https://s2.loli.net/2022/05/09/F2B7gqflXnCToJv.png)
 
 1. 异常分为两大类，运行时异常和编译时异常
 2. 运行时异常，编译器检查不出来，一般是指编程时的逻辑错误，是程序员应该避免其出现的异常，java.lang.RuntimeException类及它的子类都是运行时异常
