@@ -25,7 +25,7 @@
 
 ### 项目整体结构
 
-![image-20220711095107244](image-20220711095107244.png)
+![image-20220711095107244](https://s2.loli.net/2022/07/11/eiYxMgN6w7skDuc.png)
 
 ### mysql数据库
 
@@ -241,7 +241,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 
    1. 新建dao包和pojo包
 
-      ![image-20220711095828812](image-20220711095828812.png)
+      ![image-20220711095828812](https://s2.loli.net/2022/07/11/9PEzCrq3yVpAaYU.png)
 
    2. 新建UserMapper、UserMapper.xml、User类
 
@@ -737,3 +737,10 @@ public class User {
 ```
 
 > 如果这个世界总是这么简单就好了。
+
+### 复杂结果映射
+
+
+
+## 日志工厂
+
